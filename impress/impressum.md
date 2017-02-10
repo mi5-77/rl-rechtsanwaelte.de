@@ -8,11 +8,11 @@ categories: [intro]
 
 Angaben nach dem Telemediengesetz **(TMG)**, der Dienstleistungs-Informationspflichten-Verordnung **(DL-InfoV)**, dem Verbraucherstreitbeilegungsgesetz **(VSBG)**, der Verbraucherstreitbeilegungs-Informationspflichtenverordnung **(VSBInfoV)** und der Verordnung (EU) Nr. 524/2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG **(ODR-Verordnung)** sowie der Richtlinie 2013/11/EU über die alternative Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG **(ADR-Richtlinie)**
 
-RL RechtsanwäLte* <br>
-Mainzer Straße 14 <br>
-10247 Berlin <br>
-Tel.: 030 755 266 92 <br>
-Fax: 030 755 264 73 <br>
+RL RechtsanwäLte*  
+Mainzer Straße 14  
+10247 Berlin  
+Tel.: 030 755 266 92  
+Fax: 030 755 264 73  
 E-Mail: <post@rl-rechtsanwaelte.de>
 
 Die Kanzlei RL RechtsanwäLte* ist eine Gesellschaft bürgerlichen Rechts (GbR) bestehend aus Rechtsanwältin Daniela Rohrlack und Rechtsanwalt Michael Lippa. Beide RechtsanwäLte* sind nach dem Recht der Bundesrepublik Deutschland zum Führen des Titels Rechtsanwältin bzw. Rechtsanwalt berechtigt und Mitglieder der [Rechtsanwaltskammer Berlin] (https://www.rak-berlin.de/) als zuständige Aufsichtsbehörde.
