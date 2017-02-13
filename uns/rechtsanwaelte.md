@@ -24,6 +24,7 @@ Mitglied in der Vereinigung Berliner Strafverteidiger e.V.
 
 Sprachen: Englisch
 
+<br style="clear:left" />
 
 # Michael Lippa
 
