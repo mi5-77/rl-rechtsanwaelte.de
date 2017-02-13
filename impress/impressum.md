@@ -15,10 +15,10 @@ Tel.: 030 755 266 92
 Fax: 030 755 264 73  
 E-Mail: <post@rl-rechtsanwaelte.de>
 
-Die Kanzlei RL RechtsanwäLte* ist eine Gesellschaft bürgerlichen Rechts (GbR) bestehend aus Rechtsanwältin Daniela Rohrlack und Rechtsanwalt Michael Lippa. Beide RechtsanwäLte* sind nach dem Recht der Bundesrepublik Deutschland zum Führen des Titels Rechtsanwältin bzw. Rechtsanwalt berechtigt und Mitglieder der [Rechtsanwaltskammer Berlin] (https://www.rak-berlin.de/) als zuständige Aufsichtsbehörde.
+Die Kanzlei RL RechtsanwäLte* ist eine Gesellschaft bürgerlichen Rechts (GbR) bestehend aus Rechtsanwältin Daniela Rohrlack und Rechtsanwalt Michael Lippa. Beide RechtsanwäLte* sind nach dem Recht der Bundesrepublik Deutschland zum Führen des Titels Rechtsanwältin bzw. Rechtsanwalt berechtigt und Mitglieder der [Rechtsanwaltskammer Berlin](https://www.rak-berlin.de/) als zuständige Aufsichtsbehörde.
 
 Für RechtsanwäLte* gelten die Bundesrechtsanwaltsordnung (BRAO), die Berufsordnung für Rechtsanwälte (BORA), das Rechtsanwaltsvergütungsgesetz (RVG), die Fachanwaltsordnung (FAO) sowie die Berufsregeln der Rechtsanwälte der Europäischen Gemeinschaft (CCBE). 
-Diese Vorschriften finden Sie auf den Seiten der [Bundesrechtsanwaltskammer] (http://www.brak.de/fuer-anwaelte/berufsrecht/).
+Diese Vorschriften finden Sie auf den Seiten der [Bundesrechtsanwaltskammer](http://www.brak.de/fuer-anwaelte/berufsrecht/).
 
 Die Umsatzsteueridentifikationsnummer (USt-IdNr.) lautet DE309710028.
 
@@ -26,4 +26,4 @@ Für die RechtsanwäLte* besteht eine europaweite Berufshaftpflichtversicherung 
 
 Wir weisen darauf hin, dass durch den Besuch dieser Homepage kein Online-Dienstvertrag geschlossen sowie kein Mandantenverhältnis begründet wird.
 
-Im Falle einer Streitigkeit zwischen Mandanten und RechtsanwäLte*n besteht die Möglichkeit eine Streitschlichtung bei der [Schlichtungsstelle der Rechtsanwaltschaft in Berlin] (http://www.s-d-r.org) zu beantragen.
+Im Falle einer Streitigkeit zwischen Mandanten und RechtsanwäLte*n besteht die Möglichkeit eine Streitschlichtung bei der [Schlichtungsstelle der Rechtsanwaltschaft in Berlin](http://www.s-d-r.org) zu beantragen.
