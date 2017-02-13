@@ -10,8 +10,6 @@ image:
     creditlink: 
 ---
 
-<br />
-
 Der Erhalt und die Verteidigung von Menschen- und Bürgerrechten ist eine Motivation unserer Arbeit. Insbesondere das Strafrecht sieht gravierende Einschnitte in die Rechte von Menschen vor, die einer Straftat beschuldigt werden. Daher hat sich die Kanzlei in erster Linie der <span style="color:#F45145">**Strafverteidigung**</span> gewidmet, um Ihre Rechte während der Strafverfolgung zu schützen. Dabei ist es unerheblich, in welchem Stadium der Strafverfolgung Sie sich befinden, ob Ermittlungsmaßnahmen gegen Sie angeordnet oder eingeleitet wurden, Sie eine Anklageschrift oder einen Strafbefehl erhalten haben oder aber bereits ein Urteil gefällt worden ist, gegen das Sie sich zur Wehr setzen wollen. Wir helfen Ihnen gerne in jeder Lage des Verfahrens!
 Da verkehrsrechtliche Vorfälle oftmals nicht nur strafrechtlicher Natur sind, helfen wir Ihnen im Rahmen der Schadensregulierung, zivilrechtliche Ansprüche im Zusammenhang mit Verkehrsunfällen durchzusetzen. Auch bei drohender Entziehung der Fahrerlaubnis lassen wir Sie nicht allein. Wir beraten und vertreten Sie umfangreich im Bereich des <span style="color:#F45145">**Verkehrsrecht**</span>s.
 Auch außerhalb eines Strafverfahrens können Menschen in die Lage kommen von polizeilichen Maßnahmen betroffen zu sein. Sehr oft sind solche vermeintlich auf <span style="color:#F45145">**Polizei- und Ordnungsrecht**</span> gestützten Maßnahmen rechtswidrig und können, auch wenn sie bereits vorüber sind, für die Betroffenen langanhaltende und gravierende negative Wirkungen entfalten. Dagegen können Sie vorgehen – wir unterstützen Sie dabei.
