@@ -21,12 +21,14 @@
 }
 .image-left {
 	float: none;
+    margin: 1ex 1ex 1ex 1ex;
 	@media #{$medium} {
 		float: left;
 	}
 }
 .image-right {
 	float: none;
+    margin: 1ex 1ex 1ex 1ex;
 	@media #{$medium} {
 		float: right;
 	}
