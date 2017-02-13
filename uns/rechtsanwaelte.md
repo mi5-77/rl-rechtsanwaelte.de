@@ -1,12 +1,11 @@
 ---
 layout: post
 title: RechtsanwäLte*
-description: Daniela Rohrlack, Michael Lippa"
+description: Daniela Rohrlack, Michael Lippa
 tags: [sample post]
 categories: [intro]
 ---
-
-<br />
+# Daniela Rohrlack
 
 ![Daniela Rohrlack]({{ site.url }}/images/danirohr.jpg)
 {: .image-left}
@@ -25,9 +24,8 @@ Mitglied in der Vereinigung Berliner Strafverteidiger e.V.
 
 Sprachen: Englisch
 
-<br />
-<br />
-<br />
+
+# Michael Lippa
 
 ![Michael Lippa]({{ site.url }}/images/michlipp.jpg)
 {: .image-right}
@@ -40,4 +38,4 @@ Studium an der Deutsch-Polnischen Rechtsschule (Universytet Wrocław und Humbold
 Rechtsanwalt seit 2016
 Schwerpunkte: Strafrecht, Polizei- und Ordnungsrecht, Versammlungsrecht, Datenschutzrecht und Hochschul- und Prüfungsrecht
 Mitglied im Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)
-Sprachen: Englisch, Polnisch
+Sprachen: Englisch, Polnisch
