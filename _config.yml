@@ -16,17 +16,14 @@ url:
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Über uns'
-    url: '/'
-    submenu:
-    - title: 'Die Kanzlei'
-      url: '/uns/diekanzlei'
-    - title: 'RechtsanwäLte*'
-      url: '/uns/rechtsanwaelte'
+  - title: 'Die Kanzlei'
+    url: '/diekanzlei'
+  - title: 'RechtsanwäLte*'
+    url: '/rechtsanwaelte'
   - title: 'Kosten'
-    url: '/kost/kosten'
+    url: '/kosten'
   - title: 'Kontakt'
-    url: '/kont/kontakt'
+    url: '/kontakt'
  
 
 # Background image to be tiled on all pages
