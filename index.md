@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "RL-RechtsanwäLte* - Willkommen auf unserer Kanzleiseite"
+title: "RL RechtsanwäLte* - Willkommen auf unserer Kanzleiseite"
 description: "Rechtsanwälte für Rechtsanwalt, Strafrecht, Verkehrsrecht, Ordnungsrecht, Versammlungsrecht, Datenschutzrecht, Hochschulrecht"
 tags: [Rechtsanwalt, Strafrecht, Verkehrsrecht, Ordnungsrecht, Versammlungsrecht, Datenschutzrecht, Hochschulrecht]
 image:
