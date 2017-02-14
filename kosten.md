@@ -6,7 +6,7 @@ tags: []
 categories: [kanzlei]
 image:
     feature: kost.jpg
-    credit: CC BY Renate Hildebrandt
+    credit: CC BY 3.0 - Renate Hildebrandt
     creditlink: http://www.renate-hildebrandt.de
 ---
 
