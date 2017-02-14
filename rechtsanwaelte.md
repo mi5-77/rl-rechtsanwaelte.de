@@ -2,8 +2,8 @@
 layout: post
 title: RechtsanwäLte*
 description: Daniela Rohrlack, Michael Lippa
-tags: [sample post]
-categories: [intro]
+tags: []
+categories: [kanzlei]
 ---
 # Daniela Rohrlack
 

@@ -2,8 +2,8 @@
 layout: post
 title: Kontakt
 description: Kontaktdaten, Telefon, Adresse, Fax, Anfahrt
-tags: [sample post]
-categories: [intro]
+tags: []
+categories: [kanzlei]
 image:
     feature: kontakt.jpg
     credit: 

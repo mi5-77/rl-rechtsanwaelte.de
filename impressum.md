@@ -2,8 +2,8 @@
 layout: post
 title: Impressum
 description:
-tags: [sample post]
-categories: [intro]
+tags: []
+categories: [kanzlei]
 ---
 
 Angaben nach dem Telemediengesetz **(TMG)**, der Dienstleistungs-Informationspflichten-Verordnung **(DL-InfoV)**, dem Verbraucherstreitbeilegungsgesetz **(VSBG)**, der Verbraucherstreitbeilegungs-Informationspflichtenverordnung **(VSBInfoV)** und der Verordnung (EU) Nr. 524/2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG **(ODR-Verordnung)** sowie der Richtlinie 2013/11/EU über die alternative Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG **(ADR-Richtlinie)**

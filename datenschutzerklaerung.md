@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 modified:
-categories: []
+categories: [kanzlei]
 description: Welche Daten werden beim Besuch dieser Webseite erhoben
 tags: []
 image:

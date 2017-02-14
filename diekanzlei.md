@@ -2,8 +2,8 @@
 layout: post
 title: Die Kanzlei
 description: Strafrecht, Strafverteidigung, Verkehrsrecht, Polizeirecht, Ordnungsrecht, Versammlungsrecht, Hochschulrecht, Prüfungsrecht, Datenschutzrecht
-tags: [sample post]
-categories: [intro]
+tags: []
+categories: [kanzlei]
 image:
     feature: ubuns.jpg
     credit: Alireza Rezvani

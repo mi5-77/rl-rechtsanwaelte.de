@@ -2,8 +2,8 @@
 layout: post
 title: Kosten
 description: Vergütung, RVG, PKH, Beiordnung, etc.
-tags: [sample post]
-categories: [intro]
+tags: []
+categories: [kanzlei]
 image:
     feature: kost.jpg
     credit: CC BY Renate Hildebrandt
