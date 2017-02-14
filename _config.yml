@@ -1,8 +1,7 @@
 title:            RL RechtsanwäLte*
 description:      Strafverteidiger* und Rechtsanwälte* im Friedrichshain
 
-# put your disqus here
-logo:             images/RL-Logo.png # logo visible in the topbar
+logo:             RL-Logo.png # logo visible in the topbar
 excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
