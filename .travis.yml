@@ -7,7 +7,7 @@ install:
 - gem install jekyll octopress html-proofer
 script:
 - jekyll build --trace
-- htmlproofer ./_site --only-4xx --allow-hash-href
+- htmlproofer ./_site --only-4xx --allow-hash-href --check-html --check-favicon --check-img-http --check-opengraph --assume-extension
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && cd _site && wput -u ./ "ftp://${FTP_USER}:${FTP_PASS}@${FTP_HOST}/"
 env:
