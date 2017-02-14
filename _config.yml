@@ -14,8 +14,6 @@ url:
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
-    url: '/'
   - title: 'Die Kanzlei'
     url: '/diekanzlei'
   - title: 'RechtsanwäLte*'
