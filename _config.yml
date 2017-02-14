@@ -48,7 +48,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+#paginate: 5
 
 
 # Octopress
@@ -63,5 +63,6 @@ titlecase: true
 
 include: [".htaccess"]
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-gems: [jekyll-paginate]
-theme: neo-hpstr-jekyll-theme
+#gems: [jekyll-paginate]
+gems: []
+#theme: neo-hpstr-jekyll-theme
