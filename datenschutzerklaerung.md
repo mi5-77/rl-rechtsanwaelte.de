@@ -15,4 +15,4 @@ Datenschutz nehmen wir sehr ernst, daher erheben wir selbst keine Daten über Ih
 
 Beim Besuch unserer Seite werden vom Hosting-Anbieter automatisch Ihre IP-Adresse sowie der Browser-User-Agent gespeichert. Der Serverstandort befindet sich in den Niederlanden.
 
-Soweit von unserer Seite auf externe Inhalte verlinkt wird, richtet sich - im Falle Ihres Besuch der externen Seite - die Erhebung Ihrer Daten nach den jeweiligen Datenschutzerklärungen der externen Anbieter.
+Soweit von unserer Seite auf externe Inhalte verlinkt wird, richtet sich - im Falle Ihres Besuchs der externen Seite - die Erhebung Ihrer Daten nach den jeweiligen Datenschutzerklärungen der externen Anbieter.
