@@ -10,7 +10,7 @@ image:
     creditlink:
 ---
 <iframe width="600" height="450" frameborder="0" style="border:0" src="/maps-frame/" allowfullscreen sandbox="allow-forms allow-modals allow-scripts allow-popups">
-Die Kanzlei bei [Google Maps](https://www.google.de/maps/place/RL+Rechtsanw%C3%A4Lte*/@52.5126301,13.4599524,17z/data=!4m8!1m2!2m1!1srl+rechtsanw%C3%A4lte!3m4!1s0x47a84e5fa8c271e3:0x98ee00a136d485ac!8m2!3d52.5123624!4d13.4614223).
+Die Kanzlei bei [Google Maps](https://goo.gl/maps/eSe22GDAfzJ2).
 </iframe>
 
 
