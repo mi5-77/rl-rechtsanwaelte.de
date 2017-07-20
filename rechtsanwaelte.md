@@ -20,7 +20,7 @@ Rechtsanwältin seit 2016
 
 Schwerpunkte: Strafrecht, Ordnungswidrigkeitenrecht und Verkehrsrecht
 
-Mitglied in der Vereinigung Berliner Strafverteidiger e.V.
+Mitglied in der Vereinigung Berliner Strafverteidiger e.V. und im Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)
 
 Sprachen: Englisch
 
@@ -36,7 +36,11 @@ Jahrgang 1981
 Studium an der Humboldt-Universität zu Berlin
 
 Studium an der Deutsch-Polnischen Rechtsschule (Universytet Wrocław und Humboldt-Universität zu Berlin)
-Rechtsanwalt seit 2016
-Schwerpunkte: Strafrecht, Polizei- und Ordnungsrecht, Versammlungsrecht, Datenschutzrecht und Hochschul- und Prüfungsrecht
-Mitglied im Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)
-Sprachen: Englisch, Polnisch
+
+Rechtsanwalt seit 2016
+
+Schwerpunkte: Strafrecht, Polizei- und Ordnungsrecht, Versammlungsrecht, Datenschutzrecht und Hochschul- und Prüfungsrecht
+
+Mitglied im Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)
+
+Sprachen: Englisch, Polnisch
