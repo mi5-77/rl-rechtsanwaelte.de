@@ -9,7 +9,7 @@ image:
     credit: 
     creditlink:
 ---
-<iframe width="600" height="450" frameborder="0" style="border:0" src="/maps-frame/" allowfullscreen sandbox="allow-forms allow-modals allow-scripts allow-popups">
+<iframe width="95%" height="450" frameborder="0" style="border:0" src="/maps-frame/" allowfullscreen sandbox="allow-forms allow-modals allow-scripts allow-popups">
 Die Kanzlei bei [Google Maps](https://goo.gl/maps/eSe22GDAfzJ2).
 </iframe>
 
