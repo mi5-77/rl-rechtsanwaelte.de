@@ -4,6 +4,7 @@ title: Google Maps Privacy Warnung
 modified:
 description:
 image:
+  background: karte-rl.jpg
   feature:
   credit:
   creditlink:
