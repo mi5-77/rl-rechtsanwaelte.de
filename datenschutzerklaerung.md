@@ -37,6 +37,7 @@ Sie können uns über E-Mail kontaktieren. Dabei übermitteln Sie uns notwendige
 Wir benutzen zwar kein social Plugin, aber twittern gelegentlich. Wenn Sie unseren Twitteraccount besuchen oder uns gar folgen wollen, so richtet sich die Datenverarbeitung nach der [Twitter Datenschutzrichtlinie](https://twitter.com/de/privacy).
 
 **Links**
+
 Soweit von unserer Seite auf externe Inhalte verlinkt wird, richtet sich - im Falle Ihres Besuchs der externen Seite - die Erhebung Ihrer Daten nach den jeweiligen Datenschutzerklärungen der externen Anbieter.
 
 **Betroffenenrechte**
