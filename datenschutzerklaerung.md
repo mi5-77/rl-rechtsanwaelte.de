@@ -14,7 +14,7 @@ comments:
 **Hier erhalten Sie Informationen zur Datenverarbeitung im Rahmen des Besuchs unserer Website gem. Art. 13 DSGVO.**
 
 **Verantwortlich** für die Datenverarbeitung ist die Rechtsanwaltskanzlei:  
-RL RechtsanwäLte*  
+RL RechtsanwäLte\*
 RAin Daniela Rohrlack & RA Michael Lippa  
 Mainzer Str. 14  
 10247 Berlin  
