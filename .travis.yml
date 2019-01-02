@@ -9,7 +9,7 @@ script:
 - jekyll build --trace
 - htmlproofer ./_site --only-4xx --allow-hash-href --check-html --check-favicon --check-img-http --check-opengraph --assume-extension
 after_success:
-- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && cd _site && echo put . | sshpass -p "$SSH_PASS" sftp -r "$SSH_USER@$SSH_HOST"
+- sh -xec 'test $TRAVIS_PULL_REQUEST == "false"; test $TRAVIS_BRANCH == "master"; cd _site; echo put . | sshpass -p "$SSH_PASS" sftp -r "$SSH_USER@$SSH_HOST"'
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
