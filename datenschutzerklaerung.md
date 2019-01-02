@@ -30,7 +30,7 @@ Beim Besuch unserer Seite werden *von unserem Website-Provider* sog. **Server-Lo
 
 **E-Mail-Kontakt**
 
-Sie können uns über E-Mail kontaktieren. Dabei übermitteln Sie uns notwendigerweise Ihre E-Mail-Adresse sowie weitere personenbezogene Daten, die zur Beantwortung Ihrer Anfrage notwendig sind. Wir nutzen die Daten ausschließlich, um Sie kontaktieren bzw. Ihnen bereits  auf Ihr Anliegen antworten zu können. Rechtsgrundlage ist dafür Art. 6 Abs. 1 b) DSGVO. Sollten Sie sensitive Daten an uns übersenden wollen, nutzen Sie bitte die Möglichkeit der Verschlüsselung. Unseren öffentlichen Schlüssel finden Sie unter [Kontakt](http://rl-rechtsanwaelte.de/kontakt/).
+Sie können uns über E-Mail kontaktieren. Dabei übermitteln Sie uns notwendigerweise Ihre E-Mail-Adresse sowie weitere personenbezogene Daten, die zur Beantwortung Ihrer Anfrage notwendig sind. Wir nutzen die Daten ausschließlich, um Sie kontaktieren bzw. Ihnen bereits  auf Ihr Anliegen antworten zu können. Rechtsgrundlage ist dafür Art. 6 Abs. 1 b) DSGVO. Sollten Sie sensitive Daten an uns übersenden wollen, nutzen Sie bitte die Möglichkeit der Verschlüsselung. Unseren öffentlichen Schlüssel finden Sie unter [Kontakt](/kontakt/).
 
 **Twitter**
 
