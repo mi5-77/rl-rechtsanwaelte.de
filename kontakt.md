@@ -21,7 +21,7 @@ Mainzer Straße 14
 Tel.: 030 755 266 92  
 Fax: 030 755 264 73  
 E-Mail: <post@rl-rechtsanwaelte.de>
-_(Es besteht die Möglichkeit mit uns über PGP-Verschlüsselung zu kommunizieren. Bitte schicken Sie hierzu eine E-Mail mit ihrem Public Key und Sie erhalten unseren Public Key zugeschickt.)_
+_(Es besteht die Möglichkeit mit uns über PGP-Verschlüsselung zu kommunizieren. Den Key finden Sie [hier]({{ site.url }}/Key 0x1C0214A3C04B695E pub.asc).)_
 
 
 Geschäftszeiten:   
