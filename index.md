@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "RL RechtsanwäLte* - Willkommen auf unserer Kanzleiseite"
-description: "Rechtsanwälte für Rechtsanwalt, Strafrecht, Verkehrsrecht, Ordnungsrecht, Versammlungsrecht, Datenschutzrecht, Hochschulrecht"
-tags: [Rechtsanwalt, Strafrecht, Verkehrsrecht, Ordnungsrecht, Versammlungsrecht, Datenschutzrecht, Hochschulrecht]
+description: "Strafverteidiger und Rechtsanwälte in Friedrichshain für Strafrecht, Mietrecht, Bußgeld, Versammlungsrecht, Datenschutz, Hochschulrecht, Prüfungsrecht"
+tags: [Rechtsanwalt Friedrichshain, Strafverteidiger, Strafrecht, Mietrecht, Bußgeld, Versammlungsrecht, Datenschutz, Hochschulrecht]
 image:
     feature: home.jpg
     credit: 
