@@ -26,7 +26,7 @@ Datenschutz nehmen wir sehr ernst, daher erheben wir selbst keine Daten über Ih
 
 Unter *Kontakt* haben Sie selbst die Wahl, ob Sie mit unserer datenschutzfreundlichen Boxi-Map auskommen oder durch Klick Google-Maps öffnen. Sollten Sie sich für **Google-Maps** entscheiden, so werden *erst nach dem Klick* von Google Daten über die Nutzung der Kartenfunktion durch Besucher erhoben und verarbeitet. Nähere Infos zur Datenerhebung von Google entnehmen Sie bitte den [Google-Datenschutzhinweisen](https://policies.google.com/privacy?hl=de).
 
-Beim Besuch unserer Seite werden *von unserem Website-Provider* sog. **Server-Logfiles**, die Ihr Browser automatisch übermittelt, erhoben und temporär bis zur automatischen Löschung 7 Tage gespeichert. Erfasst werden Ihre IP-Adresse (anonymisiert), Datum und Uhrzeit des Zugriffs, Ihr Browser und Betriebssystem, Referrer-URL. Der Serverstandort unseres Website-Providers befindet sich in Bayern. Bitte keine Panik! Bayern ist Teil von Deutschland und unterliegt somit der DSGVO. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. f) DSGVO.
+Beim Besuch unserer Seite werden *von unserem Website-Provider* sog. **Server-Logfiles**, die Ihr Browser automatisch übermittelt, erhoben und temporär bis zur automatischen Löschung 7 Tage gespeichert. Erfasst werden Ihre IP-Adresse (anonymisiert), Datum und Uhrzeit des Zugriffs, Ihr Browser und Betriebssystem, Referrer-URL. Der Serverstandort unseres Website-Providers befindet sich in Bayern. Bitte keine Panik! Bayern ist nach unserem aktuellen Wissensstand Teil von Deutschland und unterliegt somit der DSGVO. Rechtsgrundlage für diese Verarbeitung ist daher Art. 6 Abs. 1 lit. f) DSGVO.
 
 **E-Mail-Kontakt**
 
