@@ -11,7 +11,7 @@ Angaben nach dem Telemediengesetz **(TMG)**, der Dienstleistungs-Informationspfl
 RL RechtsanwäLte*  
 Mainzer Straße 14  
 10247 Berlin  
-Tel.: 030 755 266 92  
+Tel.: <a href="030 755 266 92">+493075526692</a>  
 Fax: 030 755 264 73  
 E-Mail: <post@rl-rechtsanwaelte.de>
 
