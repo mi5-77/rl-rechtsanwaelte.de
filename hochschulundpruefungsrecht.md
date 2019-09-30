@@ -11,4 +11,3 @@ image:
   creditlink:
 comments:
 ---
-Auch im Hochschul- und Prüfungsrecht können wir auf Expertise zurückgreifen und sie unterstützen.
