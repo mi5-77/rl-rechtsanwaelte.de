@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impressum
-description:Strafverteidiger Rechtsanwälte Friedrichshain
+description: Strafverteidiger Rechtsanwälte Friedrichshain
 tags: [Rechtsanwalt Friedrichshain Strafrecht Mietrecht]
 categories: [kanzlei]
 ---
