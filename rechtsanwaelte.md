@@ -18,9 +18,10 @@ Referendariat am Kammergericht Berlin mit dem Schwerpunkt Strafverteidigung, Jug
 
 Rechtsanwältin seit 2016
 
-Schwerpunkte: Strafrecht, Ordnungswidrigkeitenrecht und Verkehrsrecht
+Schwerpunkte: Strafrecht, Mietrecht
 
-Mitglied in der Vereinigung Berliner Strafverteidiger e.V. und im Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)
+Mitglied in der [Vereinigung Berliner Strafverteidiger e.V.](https://www.strafverteidiger-berlin.de/) und im [Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)](https://www.rav.de/start/)
+Berät für die [Berliner MieterGemeinschaft e.V.](https://www.bmgev.de/)
 
 Sprachen: Englisch
 
@@ -41,6 +42,6 @@ Rechtsanwalt seit 2016
 
 Schwerpunkte: Strafrecht, Polizei- und Ordnungsrecht, Versammlungsrecht, Datenschutzrecht und Hochschul- und Prüfungsrecht
 
-Mitglied im Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)
+Mitglied in der [Vereinigung Berliner Strafverteidiger e.V.](https://www.strafverteidiger-berlin.de/) und im [Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)](https://www.rav.de/start/)
 
 Sprachen: Englisch, Polnisch
