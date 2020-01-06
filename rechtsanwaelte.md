@@ -21,6 +21,7 @@ Rechtsanwältin seit 2016
 Schwerpunkte: Strafrecht, Mietrecht
 
 Mitglied in der [Vereinigung Berliner Strafverteidiger e.V.](https://www.strafverteidiger-berlin.de/) und im [Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)](https://www.rav.de/start/)
+
 Berät für die [Berliner MieterGemeinschaft e.V.](https://www.bmgev.de/)
 
 Sprachen: Englisch
