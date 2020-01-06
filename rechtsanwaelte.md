@@ -24,7 +24,7 @@ Mitglied in der [Vereinigung Berliner Strafverteidiger e.V.](https://www.strafve
 
 Berät für die [Berliner MieterGemeinschaft e.V.](https://www.bmgev.de/)
 
-Sprachen: Englisch
+Sprachen: Deutsch, Englisch
 
 <br style="clear:left" />
 
@@ -45,4 +45,4 @@ Schwerpunkte: Strafrecht, Polizei- und Ordnungsrecht, Versammlungsrecht, Datensc
 
 Mitglied in der [Vereinigung Berliner Strafverteidiger e.V.](https://www.strafverteidiger-berlin.de/) und im [Republikanischen Anwältinnen- und Anwälteverein e.V. (RAV)](https://www.rav.de/start/)
 
-Sprachen: Englisch, Polnisch
+Sprachen: Deutsch, Englisch, Polnisch
