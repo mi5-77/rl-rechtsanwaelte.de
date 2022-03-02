@@ -16,8 +16,8 @@ Die Kanzlei bei [Google Maps](https://goo.gl/maps/eSe22GDAfzJ2).
 
 
 RL RechtsanwäLte*  
-Mainzer Straße 14  
-10247 Berlin  
+Oranienstraße 166  
+10999 Berlin  
 Tel.: [030 755 266 92](tel:+493075526692)  
 Fax: 030 755 264 73  
 E-Mail: <post@rl-rechtsanwaelte.de>
@@ -26,7 +26,7 @@ _(Es besteht die Möglichkeit mit uns über PGP-Verschlüsselung zu kommuniziere
 
 Geschäftszeiten:   
 Mo. – Fr. 10:00 bis 13:00 Uhr  
-Mo. – Do. 14:30 bis 18:00 Uhr  
+Mo., Di., Do.: 15:00 bis 18:00 Uhr  
 darüber hinaus nach Vereinbarung
 
 Wir bitten um Ihr Verständnis, falls Sie uns ausnahmsweise zu den hier angegebenen Geschäftszeiten telefonisch nicht in der Kanzlei erreichen können. Dies hat den Grund, dass wir uns gerade „im Einsatz“ befinden. Schreiben Sie uns in diesem Fall eine E-Mail mit kurzer Angabe des Sachverhalts, Ihres Namens und Ihrer Telefonnummer. Wir rufen Sie umgehend zurück!
