@@ -17,6 +17,8 @@ E-Mail: <post@rl-rechtsanwaelte.de>
 
 Die Kanzlei RL RechtsanwäLte* ist eine Gesellschaft bürgerlichen Rechts (GbR) bestehend aus Rechtsanwältin Daniela Rohrlack und Rechtsanwalt Michael Lippa. Beide RechtsanwäLte* sind nach dem Recht der Bundesrepublik Deutschland zum Führen des Titels Rechtsanwältin bzw. Rechtsanwalt berechtigt und Mitglieder der [Rechtsanwaltskammer Berlin](https://www.rak-berlin.de/) als zuständige Aufsichtsbehörde.
 
+Die Kanzlei arbeitet in Bürogemeinschaft mit der [Kanzlei am Oranienplatz](https://www.kanzlei-berlin.net/).
+
 Für RechtsanwäLte* gelten die Bundesrechtsanwaltsordnung (BRAO), die Berufsordnung für Rechtsanwälte (BORA), das Rechtsanwaltsvergütungsgesetz (RVG), die Fachanwaltsordnung (FAO) sowie die Berufsregeln der Rechtsanwälte der Europäischen Gemeinschaft (CCBE). 
 Diese Vorschriften finden Sie auf den Seiten der [Bundesrechtsanwaltskammer](http://www.brak.de/fuer-anwaelte/berufsrecht/).
 
