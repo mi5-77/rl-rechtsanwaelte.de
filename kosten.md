@@ -16,7 +16,7 @@ Eine pauschale Aussage über Kosten des Rechtsbeistandes zu machen, ist schwieri
 ### Erstberatung
 
 Selbstverständlich klären wir mit Ihnen schon im ersten Gespräch, was an Kosten auf sie zukommen kann. Wir lassen Sie nicht im Unklaren, so dass Sie frei entscheiden können, ob Sie unsere rechtliche Expertise in Anspruch nehmen möchten. 
-Für die Erstberatung erheben wir eine Gebühr, die vom Umfang Ihrer Angelegenheit abhängt. In der Regel nehmen wir 100,00 € zzgl. Mehrwertsteuer, das kann aber auch schon mal mehr werden, wenn Ihr Fall kompliziert oder umfangreich ist. 
+Für die Erstberatung erheben wir eine Gebühr, die vom Umfang Ihrer Angelegenheit abhängt. In der Regel nehmen wir zwischen 100,00 € und 150,00 € zzgl. Mehrwertsteuer, das kann aber auch schon mal mehr werden, wenn Ihr Fall kompliziert oder umfangreich ist. 
 Für Menschen mit geringem Einkommen besteht die Möglichkeit, einen Beratungshilfeschein zu bekommen. Diesen erhalten Sie auf Antrag beim Amtsgericht des Bezirkes, in dem Sie gemeldet sind. Sollten Sie Beratungshilfe erhalten, bringen Sie den Schein bitte zum Erstgespräch mit.
 Sollten Sie eine Erstberatung benötigen, vereinbaren Sie bitte einen Termin.  
 
