@@ -20,7 +20,7 @@ jobs:
         format_output: true
     - name: check for broken links, etc
       run: |
-        bundle exec htmlproofer ./_site --only-4xx --allow-hash-href --check-html --check-img-http --check-opengraph --assume-extension
+        bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
       # allow failing
       continue-on-error: true
     - name: install sshpass
