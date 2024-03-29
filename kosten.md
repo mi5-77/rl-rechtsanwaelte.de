@@ -7,7 +7,7 @@ categories: [kanzlei]
 image:
     feature: kost.jpg
     credit: CC BY 3.0 - Renate Hildebrandt
-    creditlink: http://www.renate-hildebrandt.de
+    creditlink: https://www.renate-hildebrandt.de
 ---
 
 Eine pauschale Aussage über Kosten des Rechtsbeistandes zu machen, ist schwierig. Es hängt letztlich vom Stand des Verfahrens, der Art der Rechtssache und natürlich nicht minder um die Art und den Umfang des Einzelfalles ab, wie sich die Kosten zusammensetzen.  

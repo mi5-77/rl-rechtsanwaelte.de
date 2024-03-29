@@ -20,7 +20,7 @@ Die Kanzlei RL RechtsanwäLte* ist eine Gesellschaft bürgerlichen Rechts (GbR) 
 Die Kanzlei arbeitet in Bürogemeinschaft mit der [Kanzlei am Oranienplatz](https://www.kanzlei-berlin.net/).
 
 Für RechtsanwäLte* gelten die Bundesrechtsanwaltsordnung (BRAO), die Berufsordnung für Rechtsanwälte (BORA), das Rechtsanwaltsvergütungsgesetz (RVG), die Fachanwaltsordnung (FAO) sowie die Berufsregeln der Rechtsanwälte der Europäischen Gemeinschaft (CCBE). 
-Diese Vorschriften finden Sie auf den Seiten der [Bundesrechtsanwaltskammer](http://www.brak.de/fuer-anwaelte/berufsrecht/).
+Diese Vorschriften finden Sie auf den Seiten der [Bundesrechtsanwaltskammer](https://www.brak.de/fuer-anwaelte/berufsrecht/).
 
 Die Umsatzsteueridentifikationsnummer (USt-IdNr.) lautet DE309710028.
 
@@ -28,4 +28,4 @@ Für die RechtsanwäLte* besteht eine europaweite Berufshaftpflichtversicherung 
 
 Wir weisen darauf hin, dass durch den Besuch dieser Homepage kein Online-Dienstvertrag geschlossen sowie kein Mandantsverhältnis begründet wird.
 
-Im Falle einer Streitigkeit zwischen Mandant*innen und RechtsanwäLte*n besteht die Möglichkeit eine Streitschlichtung bei der [Schlichtungsstelle der Rechtsanwaltschaft in Berlin](http://www.s-d-r.org) zu beantragen.
+Im Falle einer Streitigkeit zwischen Mandant*innen und RechtsanwäLte*n besteht die Möglichkeit eine Streitschlichtung bei der [Schlichtungsstelle der Rechtsanwaltschaft in Berlin](https://www.schlichtungsstelle-der-rechtsanwaltschaft.de/) zu beantragen.
